@@ -6,7 +6,10 @@ This project delves into the world's most significant events, extracting key ins
 
 ## Data Sources:
 * Data is collected from alcedata which gives information about the event type, location, fatalities, civilian targeted etc.
-* Exploration is done in SQL and and findings are presented in Power BI.
+
+## Tools Use:
+* **postgresql** is used for exploring the data
+* Findings are presented in **Power BI** dashboard.
 
 ## Data Exploration(Findings):
 * SQL is used to explore over 1M events across the globe. Following are the insights:
